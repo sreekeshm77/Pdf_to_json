@@ -1,0 +1,14 @@
+flask
+langchain
+langchain_community
+pypdf
+wikipedia
+langchain_text_splitters
+opencv-python
+langchain_huggingface
+sentence_transformers
+python-dotenv
+chromadb
+spacy
+pdfplumber
+json
